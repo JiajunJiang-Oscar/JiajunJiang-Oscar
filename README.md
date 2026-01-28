@@ -3,10 +3,12 @@
 I'm glad you're interested in my projects.  
 I’m a cybersecurity student, currently I'm learnning ‘cmd’ and 'Swift'
 
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JiajunJiang-Oscar&show_icons=true&theme=tokyonight" /> 
 </div>
 
+## 🛠 Skills
 My favourite languages and tools:
 <span > 
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
@@ -17,7 +19,6 @@ My favourite languages and tools:
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Metasploit-2A2A2A?logo=metasploit&logoColor=white">
   <img src="https://img.shields.io/badge/OPNsense-D94F00?logo=opnsense&logoColor=white">
-  
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
