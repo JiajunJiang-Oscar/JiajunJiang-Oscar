@@ -1,9 +1,9 @@
 ## Hi there, I'm Oscar👋
 
-**I'm glad you're interested in my projects.  
+I'm glad you're interested in my projects.  
 I’m a cybersecurity student, currently I'm learnning ‘cmd’ and 'Swift'
 Feel free to explore and connect with me!
- - **
+ - LinkedIn: 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JiajunJiang-Oscar&show_icons=true&theme=tokyonight" /> 
