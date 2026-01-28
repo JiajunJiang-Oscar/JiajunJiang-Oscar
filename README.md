@@ -1,7 +1,7 @@
 ## Hi there, I'm Oscar👋
 
-I'm glad you're interested in my projects.  
-I’m a cybersecurity student, currently I'm learnning ‘cmd’ and 'Swift'
+I'm glad you're interested in my projects. <br>  
+I’m a cybersecurity student, currently I'm learnning ‘cmd’ and 'Swift' <br>
 
 
 <div align="left">
@@ -9,7 +9,7 @@ I’m a cybersecurity student, currently I'm learnning ‘cmd’ and 'Swift'
 </div>
 
 ## 🛠 Skills
-My favourite languages and tools:
+My favourite languages and tools: <br>
 <span > 
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white">
