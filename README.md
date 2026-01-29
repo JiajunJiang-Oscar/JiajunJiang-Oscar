@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=MOVE FORWARD; UNDERSTAND THE WORLD; HELP BUILD IT&center=true&size=27" alt="Typing SVG" />
-  </a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=22&duration=4000&pause=500&color=FFB80F&center=true&vCenter=true&width=435&lines=Move+Forward%2C+Understand+the+world;Then+help+build+it." alt="Typing SVG" /></a>
 
 ## Hi there, I'm Oscar👋
 
