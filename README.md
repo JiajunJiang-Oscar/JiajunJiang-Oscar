@@ -1,7 +1,13 @@
+<div align="center">
+  <a href="https://blog.sunguoqi.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=MOVE FORWARD; UNDERSTAND THE WORLD; HELP BUILD IT&center=true&size=27" alt="Typing SVG" />
+  </a>
+</div>
+
 ## Hi there, I'm Oscar👋
 
 I'm glad you're interested in my projects. <br>
-I’m a cybersecurity student, currently I'm learnning ‘cmd’ and 'Swift' <br>
+I’m a cybersecurity student, currently I'm learnning *cmd* and *Swift* <br>
 
 
 <div align="left">
