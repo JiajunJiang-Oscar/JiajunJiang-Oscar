@@ -1,6 +1,6 @@
 ## Hi there, I'm Oscar👋
 
-I'm glad you're interested in my projects. <br>  
+I'm glad you're interested in my projects. 
 I’m a cybersecurity student, currently I'm learnning ‘cmd’ and 'Swift' <br>
 
 
@@ -27,7 +27,7 @@ My favourite languages and tools: <br>
 </span>
 
 
-## Feel free to explore and connect with me!
+## 🌐 Feel free to explore and connect with me!
  - Email: *j18665868@gmail.com*
  -  LinkedIn: *https://www.linkedin.com/in/jiajun-jiang-b44397331/*
  - Portfolio: *https://oscarjiang.ink*
