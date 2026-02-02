@@ -5,10 +5,7 @@
 I'm glad you're interested in my projects. <br>
 I’m a cybersecurity student, currently I'm learnning *cmd* and *Swift* <br>
 
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JiajunJiang-Oscar&show_icons=true&theme=tokyonight" /> 
-</div>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ## 🛠 Skills
 My favourite languages and tools: <br>
